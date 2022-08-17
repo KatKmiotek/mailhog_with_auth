@@ -17,6 +17,6 @@ To run (pass password in)
 docker run -it -e MAILHOG_PASSWORD=<password> -p 8025:8025 -p 1025:1025 <name>
 ```
 
-access running image on localhost:8025
-user: admin
-password: <password>
+You can access now running image on localhost:8025  
+user: admin  
+password: <password>  
