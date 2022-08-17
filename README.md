@@ -1,5 +1,7 @@
 ### Mailhog docker image with auth
 
+Using original image of [MailHog](https://github.com/mailhog/MailHog)
+
 before using remember to 
 ```
 chmod +x entrypoint.sh
